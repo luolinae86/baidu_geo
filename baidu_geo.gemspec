@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["luolin"]
   spec.email         = ["luolinae86@gmail.com"]
 
-  spec.summary       = %q{基于Baidu Geocoding API 提供从地址到经纬度坐标或者从经纬度坐标到地址的转换服务}
+  spec.summary       = %q{根据地址获取经纬度，以及根据经纬度获取地址}
   spec.description   = %q{基于Baidu Geocoding API 提供从地址到经纬度坐标或者从经纬度坐标到地址的转换服务}
   spec.homepage      = "https://github.com/luolinae86/baidu_geo"
   spec.license       = "MIT"
